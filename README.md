@@ -1,2 +1,6 @@
 # project1
-#This is my first ever team project in which i am contributing in frontend,database management and machine learning parts
+#This is our first ever team project.
+#following are the parts where members contributed
+#MKD2002-Frontend,DataBase and Machine Learning.
+#MoHiTKuKrEjA11-Frontend and Database.
+#omtrivediw-Frontend,Backend and Machine Learning
