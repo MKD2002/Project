@@ -1,2 +1,2 @@
 # project1
-#This is our first ever team project.
+#This is my first ever team project in which i am contributing in frontend,database management and machine learning parts
